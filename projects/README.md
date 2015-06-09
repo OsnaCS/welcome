@@ -3,6 +3,7 @@ Projektverzeichnis
 
 Hier werden die Projekte von den Mitgliedern von OsnaCS verwaltet. Es können Ideen eingetragen werden, aber auch Projekte, an denen schon gearbeitet wird.
 
+Um selber Projekte hinzuzufügen, forked das Repository wie in [`CONTRIBUTE.md`](https://github.com/OsnaCS/welcome/CONTRIBUTE.md) beschrieben und beachtet die nachfolgenden Regeln.
 
 ### Struktur
 
