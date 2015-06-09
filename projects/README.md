@@ -3,7 +3,7 @@ Projektverzeichnis
 
 Hier werden die Projekte von den Mitgliedern von OsnaCS verwaltet. Es können Ideen eingetragen werden, aber auch Projekte, an denen schon gearbeitet wird.
 
-Um selber Projekte hinzuzufügen, forked das Repository wie in [`CONTRIBUTE.md`](https://github.com/OsnaCS/welcome/CONTRIBUTE.md) beschrieben und beachtet die nachfolgenden Regeln.
+Um selber Projekte hinzuzufügen, forked das Repository wie in [`CONTRIBUTE.md`](https://github.com/OsnaCS/welcome/blob/master/CONTRIBUTE.md) beschrieben und beachtet die nachfolgenden Regeln.
 
 ### Struktur
 
@@ -28,7 +28,7 @@ Am besten kopiert man einfach den Text von schon vorhandenen Projekten und passt
 
 # Projekte
 
-### [Munchmate](https://github.com/OsnaCS/welcome/projects/munchmate.md)
+### [Munchmate](https://github.com/OsnaCS/welcome/blob/master/projects/munchmate.md)
 ![Status: In Development](https://img.shields.io/badge/status-in_development-green.svg)
 
 ![Wanted: Android Developer](https://img.shields.io/badge/wanted-android_dev-blue.svg)
@@ -38,7 +38,7 @@ Am besten kopiert man einfach den Text von schon vorhandenen Projekten und passt
 Eine App zum Essen mit Kommilitonen. Man kann sich zu bestimmten Zeiten zum "Mensen" verabreden und Leute zum Essen einladen. So spart man sich täglich in mehreren Telegram- oder Whatsapp-Gruppen nachzufragen. Das Backend ist schon in Entwicklung, fehlen nur noch die Apps. Dafür brauchen wir einen Android und einen iOS Entwickler, sowie einen Designer, der schöne Logos und Grafiken bastelt.
 
 
-### [JSwag](https://github.com/OsnaCS/welcome/projects/jswag.md)
+### [JSwag](https://github.com/OsnaCS/welcome/blob/master/projects/jswag.md)
 ![Status: In Development](https://img.shields.io/badge/status-in_development-green.svg)
 
 ![Optional: Rust Developer](https://img.shields.io/badge/optional-rust_dev-lightgrey.svg)

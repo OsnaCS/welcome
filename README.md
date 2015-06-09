@@ -13,7 +13,7 @@ Viele kennen das als Programmierer: Man hat eine Idee für ein Projekt, aber kei
 
 Daher soll es OsnaCS auch ermöglichen einfacher Projekte zu planen und Programmierer zu finden. Du kannst dir die eingetragenen Projekte angucken und findest eventuell etwas, woran du mitarbeiten möchtest. Falls du eine Idee hast, kannst du diese aber auch selber eintragen und hoffentlich Programmierer finden.
 
-Das alles wird im [Unterordner `projects/`](https://github.com/OsnaCS/welcome/projects) verwaltet.
+Das alles wird im [Unterordner `projects/`](https://github.com/OsnaCS/welcome/tree/master/projects) verwaltet.
 
 
 ### Warum Programmieren in der Freizeit?
